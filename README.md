@@ -1,2 +1,2 @@
 # Leetcode-solutions
-Aprendendo Java com LeetCode.
+Resolução de exercícios do LeetCode com Java e Python.
